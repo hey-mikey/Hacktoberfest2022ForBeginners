@@ -38,6 +38,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 -   Use any language.
 -   Anything valuable.
+-   If your code does not compile/run, the PR will be labeled "bug" and closed.
 -   Please try to avoid repeating something already here.
 -   Please try to stick to folder structure. If your language doesn't have a folder yet, please create one and put your code there.
 
